@@ -16,7 +16,7 @@
 
 ---
 
-[🌐 **Official Website**](https://novadl.vercel.app/) • [📥 **Download Windows**](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/NovaDL-Setup-1.0.313.exe) • [📱 **Download Android**](https://github.com/shaswatxd/novadl-android-releases/releases/download/v1.0.313/app-release.apk) • [🧩 **Browser Extension**](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/novadl-extension-v1.0.313.zip)
+[🌐 **Official Website**](https://novadl.vercel.app/) • [📥 **Download Windows**](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/NovaDL-Setup-1.0.313.exe) • [📱 **Download Android**](https://github.com/shaswatxd/novadl-android-releases/releases/latest/download/NovaDL.apk) • [🧩 **Browser Extension**](https://microsoftedge.microsoft.com/addons/detail/pgeefnhhbhpahmnjgcmnhopkbbcaiplh)
 
 </div>
 
@@ -27,12 +27,19 @@
 | Platform | Format | Direct Download |
 | :--- | :--- | :--- |
 | **Windows 10 / 11** | Installer (`.exe`) | [💾 Download NovaDL Setup v1.0.313](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/NovaDL-Setup-1.0.313.exe) |
-| **Android 8.0+** | APK (`.apk`) | [📱 Download NovaDL Android v1.0.313](https://github.com/shaswatxd/novadl-android-releases/releases/download/v1.0.313/app-release.apk) |
-| **Chrome / Edge / Brave** | Extension (`.zip`) | [🧩 Download Browser Extension v1.0.313](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/novadl-extension-v1.0.313.zip) |
+| **Android 8.0+** | APK (`.apk`) | [📱 Download NovaDL Android Latest APK](https://github.com/shaswatxd/novadl-android-releases/releases/latest/download/NovaDL.apk) |
+| **Microsoft Edge** | Official Store | [🛒 Install from Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/pgeefnhhbhpahmnjgcmnhopkbbcaiplh) |
+| **Chrome / Brave** | Extension (`.zip`) | [🧩 Download Chrome & Brave Extension ZIP](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/novadl-extension-chrome-edge.zip) |
+| **Firefox** | Extension (`.zip`) | [🦊 Download Firefox Extension ZIP](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/novadl-extension-firefox.zip) |
 
-### 💻 Install via Windows Package Manager (Winget)
+### 💻 Install via Package Managers
+
 ```powershell
-winget install shaswatxd.NovaDL
+# Windows Package Manager (Winget)
+winget install NovaDL.NovaDL
+
+# Scoop Package Manager
+scoop install https://novadl.vercel.app/novadl.json
 ```
 
 ---
