@@ -12,7 +12,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://novadl.vercel.app/licenses)
 [![Zero Telemetry](https://img.shields.io/badge/telemetry-zero-success?style=flat-square)](https://novadl.vercel.app/)
 [![AlternativeTo](https://img.shields.io/badge/AlternativeTo-Listed-blue?logo=alternativeto&style=flat-square)](https://alternativeto.net/software/novadl/about/)
-[![Winget](https://img.shields.io/badge/winget-available-0078D7?logo=windows&style=flat-square)](https://github.com/microsoft/winget-pkgs/pull/441602)
 
 ---
 
@@ -32,13 +31,9 @@
 | **Chrome / Brave** | Extension (`.zip`) | [🧩 Download Chrome & Brave Extension ZIP](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/novadl-extension-chrome-edge.zip) |
 | **Firefox** | Extension (`.zip`) | [🦊 Download Firefox Extension ZIP](https://github.com/shaswatxd/novadl-releases/releases/download/v1.0.313/novadl-extension-firefox.zip) |
 
-### 💻 Install via Package Managers
+### 💻 Install via Scoop Package Manager
 
 ```powershell
-# Windows Package Manager (Winget)
-winget install NovaDL.NovaDL
-
-# Scoop Package Manager
 scoop install https://novadl.vercel.app/novadl.json
 ```
 
@@ -64,7 +59,6 @@ scoop install https://novadl.vercel.app/novadl.json
 | **Embedded yt-dlp & HLS** | **Yes (Built-in)** | Limited / Plugin | Basic |
 | **Android Companion App** | **Yes (Jetpack Compose)** | ❌ None | Basic |
 | **Modern Dark UI** | **Yes (Glassmorphism)** | ❌ 1990s Windows UI | Standard |
-| **Windows Winget Support** | **Yes** | ❌ Manual only | Yes |
 
 ---
 
